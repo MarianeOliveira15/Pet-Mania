@@ -1,4 +1,4 @@
-# Pet-Mania
+# Pet-Mania - Esta versão contem o Aplicativo 
 
 # 🐾 ABM Software: Solução para Gerenciamento de Agendamento em Pet Shop
 
